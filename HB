@@ -1,3 +1,4 @@
+--[[
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 
 local Notify = AkaliNotif.Notify;
@@ -11305,3 +11306,4 @@ local FirstButton = FirstPage.AddButton("Copy Roblox Account Name !", function()
 setclipboard("S_zow")
     toclipboard("S_zow")
 end)
+]]
